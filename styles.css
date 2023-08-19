@@ -35,4 +35,23 @@ body{
     padding: 1.5px;
     margin-left: 10px;
     margin-right: 10px ;
+    
+}
+.solution{
+    text-align:center;
+    border-top: 100px;
+}
+.airpollution{
+    text-align: left;
+}
+.solution{
+  float: left;
+  height:auto;
+  width:auto;
+  padding:25px;
+}
+
+.airpollutionimage{
+   float: left;
+
 }
